@@ -10,5 +10,5 @@ In the dataset containing RGB values, we need to match each color's values with 
 * OpenCV: For image processing
 * Pandas: To handle the color data file.
 
-Demo:
+
 https://github.com/dafinad/AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-/assets/126780065/6364f71e-f1bb-475e-9029-0136548c9890
